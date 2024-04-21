@@ -1,0 +1,5 @@
+CIRCUITPY_WIFI_SSID = "BECONEC"
+CIRCUITPY_WIFI_PASSWORD = "Dmarcom3!@"
+CIRCUITPY_WEB_API_PASSWORD= "24042007"
+aio_username = "gianguyenpham"
+aio_key = "aio_gqce90bIzACVddIYp4BcOWhgYOTH"
